@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/juan5lira/Post-Install-Config)
   
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/juan.lira/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/juan5lira/Config-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/juan.lira/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
