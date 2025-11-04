@@ -19,4 +19,8 @@
 
 
 [instagram]: https://www.instagram.com/pinkidinkey
+
+
 [linkedin]: https://linkedin.com/in/juan-lira-negrete-712029340
+
+
