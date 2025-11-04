@@ -18,5 +18,5 @@
 [<img align="left" alt="Juan | Instagram" width="22px" src="https://cdn.juan.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/Juan
-[linkedin]: https://linkedin.com/in/Juan
+[instagram]: https://www.instagram.com
+[linkedin]: https://linkedin.com/in/juan-lira-negrete-712029340
